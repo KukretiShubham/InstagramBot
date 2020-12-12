@@ -5,4 +5,6 @@ Just go to your terminal and run the command
 $ python bot.py
 and just wait for seconds and post is done!
 
+Check the master branch for code
+
 
