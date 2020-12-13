@@ -1,7 +1,7 @@
 # InstagramBot
 Influencers don't get time for posting same thing over different social media handles. So this 4 line code does job for instagram.
 
-# This is a very basic bot, post only one post at time
+# This is a very basic bot, single post at time
 
 Just go to your terminal and run the command 
 $ python bot.py
