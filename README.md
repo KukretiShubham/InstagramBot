@@ -20,3 +20,4 @@ $ python bot.py
 wait for 30 secs or till then you can work somewhere, it is posted 
 
 # For every new use delete the "config" folder created previously 
+or delete package.json file
